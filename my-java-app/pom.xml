@@ -1,0 +1,5 @@
+<dependency>
+    <groupId>com.github.matthieuriolo</groupId>
+    <artifactId>systemd-journal-logger</artifactId>
+    <version>1.0.0</version>
+</dependency>
